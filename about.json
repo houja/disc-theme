@@ -1,5 +1,21 @@
 {
-	"name": "FS Pathway Remote Theme",
-	"about_url": "https://some.url.com",
-	"license_url": "https://some.url.com/LICENSE"
-}
+	"name": "Forest",
+	"about_url": "https://github.com/houja/disc-theme",
+	"license_url": "https://github.com/houja/disc-theme/blob/main/LICENSE",
+	"assets": {
+	},
+	"color_schemes": {
+	  "Forest": {
+		"primary": "1F280E", 
+		"secondary": "f2e8cf",
+		"tertiary": "6a994e",
+		"quaternary": "656d4a",
+		"header_background": "a7c957",
+		"header_primary": "132a13",
+		"highlight": "a7c957",
+		"danger": "e45735",
+		"success": "9e2a2b",
+		"love": "bc4749"
+	  }
+	} 
+  }
